@@ -1,16 +1,20 @@
-## Hi there 👋
+<h2 align="center">💜 Ingrid de Moraes Reis 💜</h2>
 
-<!--
-**ingridreisdev/ingridreisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🔐 Estudando Segurança da Informação  
+☁️ Estudando Computação em Nuvem  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+💻 Criativa • Organizada • Sempre aprendendo  
+🎮 Gamer nas horas vagas, tech por paixão  
+</p>
+
+---
+
+<p align="center">
+💜 Evoluindo um commit de cada vez 💜
+</p>
