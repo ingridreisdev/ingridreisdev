@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&color=7F00FF&height=180&section=header&text=Ingrid%20Reis&fontColor=ffffff&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 </p>
+
 <h2 align="center">💜 Ingrid de Moraes Reis 💜</h2>
 
 <p align="center">
