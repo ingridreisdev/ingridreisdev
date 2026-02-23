@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:14001f,100:6a00ff&text=BEM%20VINDO!&fontColor=ffffff&fontSize=40&fontAlignY=45&animation=fadeIn&section=header"/>
+  <svg width="80%" height="20">
+    <line x1="0" y1="10" x2="100%" y2="10"
+          stroke="#8A2BE2"
+          stroke-width="2"/>
+  </svg>
 </p>
 <h2 align="center">💜 Ingrid de Moraes Reis 💜</h2>
 
