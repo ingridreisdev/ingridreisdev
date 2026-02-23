@@ -1,47 +1,5 @@
 <p align="center">
-<svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-  </defs>
-
-  <!-- Linha 1 -->
-  <path d="M0 120 Q300 40 600 120 T1200 120"
-        stroke="#8A2BE2"
-        stroke-width="4"
-        fill="transparent"
-        filter="url(#glow)">
-    <animate attributeName="d"
-      dur="6s"
-      repeatCount="indefinite"
-      values="
-      M0 120 Q300 40 600 120 T1200 120;
-      M0 100 Q300 180 600 100 T1200 100;
-      M0 120 Q300 40 600 120 T1200 120"/>
-  </path>
-
-  <!-- Linha 2 -->
-  <path d="M0 140 Q300 200 600 140 T1200 140"
-        stroke="#BB00FF"
-        stroke-width="3"
-        fill="transparent"
-        filter="url(#glow)">
-    <animate attributeName="d"
-      dur="6s"
-      repeatCount="indefinite"
-      values="
-      M0 140 Q300 200 600 140 T1200 140;
-      M0 160 Q300 60 600 160 T1200 160;
-      M0 140 Q300 200 600 140 T1200 140"/>
-  </path>
-
-</svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f001a,50:4B0082,100:8A2BE2&section=header"/>
 </p>
 <h2 align="center">💜 Ingrid de Moraes Reis 💜</h2>
 
