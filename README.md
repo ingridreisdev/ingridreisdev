@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=220&color=0:240046,50:5A189A,100:9D4EDD&section=header"/>
+  <img src="LINK_DA_SUA_IMAGEM" width="100%"/>
 </p>
 
 <h2 align="center">💜 Ingrid de Moraes Reis 💜</h2>
