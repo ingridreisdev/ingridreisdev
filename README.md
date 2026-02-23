@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=25&duration=4000&color=BB00FF&center=true&vCenter=true&width=900&height=150&lines=Ingrid+Reis"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2E003E,50:5D00A6,100:8A2BE2&section=header"/>
 </p>
 
 <h2 align="center">💜 Ingrid de Moraes Reis 💜</h2>
