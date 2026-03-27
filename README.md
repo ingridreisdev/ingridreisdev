@@ -1,21 +1,28 @@
+<h2 align="left">Olá, Me Chamo Ingrid Reis.</h2>
 
-<h2 align="center">💜 Ingrid de Moraes Reis 💜</h2>
+###
 
-<p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🔐 Estudando Segurança da Informação  
-☁️ Estudando Computação em Nuvem  
-</p>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-<p align="center">
-💻 Criativa • Organizada • Sempre aprendendo  
-🎮 Gamer nas horas vagas, tech por paixão  
-</p>
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+</div>
 
----
 
-<p align="center">
-💜 Evoluindo um commit de cada vez 💜
-</p>
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
