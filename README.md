@@ -10,8 +10,8 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  <a href="www.linkedin.com/in/ingrid-reis-a8a713319">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
   </a>
 </p>
 
