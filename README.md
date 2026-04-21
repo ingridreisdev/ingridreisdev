@@ -8,6 +8,13 @@
 
 •📫 How to reach me: moraesingrid025@gmail.com
 
+<h2 align="left">Connect with me:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-usuario">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+</p>
+
 ###
 
 <h2 align="left"> Languages and Tools</h2>
