@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ingrid Reis</h1>
 
-<h2 align="left">FuulStack Developer</h2>
+<h2 align="left">FullStack Developer</h2>
 
 •🧩 All my projects are available here
 
