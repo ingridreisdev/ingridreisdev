@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://pt.wikipedia.org/wiki/Ficheiro:C_Logo.png" height="60" alt="c logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="60" alt="c logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
