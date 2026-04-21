@@ -9,9 +9,9 @@
 •📫 How to reach me: moraesingrid025@gmail.com
 
 <h2 align="left">Connect with me:</h2>
-<p align="center">
+<p align="left">
   <a href="www.linkedin.com/in/ingrid-reis-a8a713319">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+    <img src="https://img.freepik.com/vetores-premium/vector-linkedin-apps-logo-em-arredondado-ativo-isolado_1004619-457.jpg?semt=ais_hybrid&w=740&q=80" width="30"/>
   </a>
 </p>
 <a href="https://github.com/ingridreisdev/ingridreisdev">
