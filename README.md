@@ -11,7 +11,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="www.linkedin.com/in/ingrid-reis-a8a713319">
-    <img src="https://kinsta.com/wp-content/uploads/2018/06/linkedin-marketing-2.png" width="30"/>
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQFSkkazpND0Tg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1696901179396?e=2147483647&v=beta&t=sg_aDp3g51FrQdFdKqc_c7Lz249Igbl5buOJvCcRzEY" width="30"/>
   </a>
 </p>
 <a href="https://github.com/ingridreisdev/ingridreisdev">
