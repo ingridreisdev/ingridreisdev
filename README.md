@@ -2,11 +2,12 @@
 
 <h2 align="left">FuulStack Developer</h2>
 
-●🧩 All my projects are available here
+•🧩 All my projects are available here
 
-●🌱 I'm currently Learning C
+•🌱 I'm currently Learning C
 
-●📫 How to reach me: moraesingrid025@gmail.com
+•📫 How to reach me: moraesingrid025@gmail.com
+
 ###
 
 <h2 align="left"> Languages and Tools</h2>
