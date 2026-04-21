@@ -15,7 +15,7 @@
   </a>
 </p>
 <a href="https://github.com/ingridreisdev/ingridreisdev">
-<img src="https://github.com/ingridreisdev/ingridreisdev" width= "30"/>
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width= "30"/>
 </a>
 </p>
 
