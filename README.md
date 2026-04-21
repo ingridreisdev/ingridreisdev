@@ -11,7 +11,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="www.linkedin.com/in/ingrid-reis-a8a713319">
-    <img src="https://img.freepik.com/vetores-premium/logotipo-quadrado-do-linkedin-isolado-no-fundo-branco_469489-892.jpg?semt=ais_hybrid&w=740&q=80" width="30"/>
+    <img src="https://kinsta.com/wp-content/uploads/2018/06/linkedin-marketing-2.png" width="30"/>
   </a>
 </p>
 <a href="https://github.com/ingridreisdev/ingridreisdev">
