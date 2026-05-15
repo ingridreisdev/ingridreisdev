@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ingrid Reis</h1>
+<h1 align="center">Hi, I'm Ingrid Reis🎀</h1>
 
 <h2 align="left">FullStack Developer</h2>
 
