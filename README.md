@@ -1,6 +1,8 @@
-<h1 align="center">Hi, I'm Ingrid Reis🎀</h1>
+## Ingrid Reis
 
-<h2 align="left">FullStack Developer</h2>
+Estudante de Análise e Desenvolvimento de Sistemas
+Iniciante em Desenvolvimento Full-Stack
+Em busca do primeiro estágio na área de tecnologia
 
 •🧩 All my projects are available here
 
