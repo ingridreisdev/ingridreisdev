@@ -24,7 +24,7 @@ Em busca do primeiro estágio na área de tecnologia<br>
 
 ###
 
-<h2 align="left"> Languages and Tools</h2>
+<h2 align="left"> Tecnologias em Aprendizado</h2>
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="50" alt="c logo"  />
   <img width="12" />
