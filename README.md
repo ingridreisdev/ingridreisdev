@@ -1,5 +1,6 @@
 ## Ingrid Reis
 
+## Sobre mim
 Estudante de Análise e Desenvolvimento de Sistemas<br>
 Iniciante em Desenvolvimento Full-Stack<br>
 Em busca do primeiro estágio na área de tecnologia<br>
