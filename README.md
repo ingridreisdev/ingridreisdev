@@ -8,16 +8,6 @@
   <p><i>Estudante de ADS | Full-Stack em formação | Buscando primeiro estágio</i></p>
 </div>
 
-
-
-
-
-
-## Ingrid Reis
-
-
-
-
 ## Sobre mim
 Estudante de Análise e Desenvolvimento de Sistemas<br>
 Iniciante em Desenvolvimento Full-Stack<br>
