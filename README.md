@@ -9,8 +9,16 @@
 </div>
 
 ## Sobre mim
-Desenvolvedora Fullstack em ínicio de carreira, com foco em construir aplicações completas do backend ao frontend. Sempre buscando código limpo, aprender novas tecnologias e evoluir a cada projeto.<br>
+Desenvolvedora Fullstack em ínicio de carreira, com foco em construir aplicações completas do backend ao frontend. Sempre buscando código limpo, aprender novas tecnologias e evoluir a cada projeto. 
+
 Tenho facilidade para aprender rápido, gosto de resolver problemas e estou em busca da minha primeira oportunidade como estágiaria ou desenvolvedora júnior.
+
+
+- 🌍 Rio de Janeiro — Brasil
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💡 Curiosa, determinada e apaixonada por tecnologia
+- 🤝 Aberta a colaborações e novos desafios
+- 🗣️ Inglês Avançado
 
 
 <h2 align="left">Connect with me:</h2>
