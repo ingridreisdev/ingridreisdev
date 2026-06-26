@@ -22,6 +22,8 @@ Tenho facilidade para aprender rápido, gosto de resolver problemas e estou em b
 
 </div>
 
+--- 
+
   ## 📊 GitHub Stats
 
 <div align="center">
@@ -30,7 +32,7 @@ Tenho facilidade para aprender rápido, gosto de resolver problemas e estou em b
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridreisdev&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
-
+---
 
 
 ###
