@@ -9,9 +9,8 @@
 </div>
 
 ## Sobre mim
-Estudante de Análise e Desenvolvimento de Sistemas<br>
-Iniciante em Desenvolvimento Full-Stack<br>
-Em busca do primeiro estágio na área de tecnologia<br>
+Desenvolvedora Fullstack em ínicio de carreira, com foco em construir aplicações completas do backend ao frontend. Sempre buscando código limpo, aprender novas tecnologias e evoluir a cada projeto.<br>
+Tenho facilidade para aprender rápido, gosto de resolver problemas e estou em busca da minha primeira oportunidade como estágiaria ou desenvolvedora júnior.
 
 
 <h2 align="left">Connect with me:</h2>
