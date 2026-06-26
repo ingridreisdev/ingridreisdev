@@ -21,16 +21,6 @@ Tenho facilidade para aprender rápido, gosto de resolver problemas e estou em b
 - 🗣️ Inglês Avançado
 
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-  <a href="www.linkedin.com/in/ingridreisdev">
-    <img src="https://yt3.googleusercontent.com/i6KNxiy3gME-BulL4WnuGkTGqHuSYF8jl1WRn0rXftcJdSYK7dHKcJ3gLAaPc-KfhmLSYPwf824=s900-c-k-c0x00ffffff-no-rj" width="30"/>
-  </a>
-</p>
-<a href="https://github.com/ingridreisdev/ingridreisdev">
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" width= "30"/>
-</a>
-</p>
 
 ###
 
