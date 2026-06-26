@@ -13,11 +13,6 @@ Estudante de Análise e Desenvolvimento de Sistemas<br>
 Iniciante em Desenvolvimento Full-Stack<br>
 Em busca do primeiro estágio na área de tecnologia<br>
 
-•🧩 All my projects are available here
-
-•🌱 I'm currently Learning C
-
-•📫 How to reach me: moraesingrid025@gmail.com
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
