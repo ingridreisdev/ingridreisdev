@@ -20,6 +20,8 @@ Tenho facilidade para aprender rápido, gosto de resolver problemas e estou em b
 - 🤝 Aberta a colaborações e novos desafios
 - 🗣️ Inglês Avançado
 
+</div>
+
   ## 📊 GitHub Stats
 
 <div align="center">
