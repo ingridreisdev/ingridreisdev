@@ -14,6 +14,11 @@ Desenvolvedora Fullstack em ínicio de carreira, com foco em construir aplicaç�
 Tenho facilidade para aprender rápido, gosto de resolver problemas e estou em busca da minha primeira oportunidade como estágiaria ou desenvolvedora júnior.
 
 
+- 🌍 Rio de Janeiro — Brasil
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💡 Curiosa, determinada e apaixonada por tecnologia
+- 🤝 Aberta a colaborações e novos desafios
+- 🗣️ Inglês Avançado
 
   ## 📊 GitHub Stats
 
@@ -24,14 +29,6 @@ Tenho facilidade para aprender rápido, gosto de resolver problemas e estou em b
 
 </div>
 
-
-
-
-- 🌍 Rio de Janeiro — Brasil
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 💡 Curiosa, determinada e apaixonada por tecnologia
-- 🤝 Aberta a colaborações e novos desafios
-- 🗣️ Inglês Avançado
 
 
 ###
