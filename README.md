@@ -8,7 +8,7 @@
   <p><i>Estudante de ADS | Full-Stack em formação | Buscando primeiro estágio</i></p>
 </div>
 
-## Sobre mim
+## 👩‍💻 Sobre mim
 Desenvolvedora Fullstack em ínicio de carreira, com foco em construir aplicações completas do backend ao frontend. Sempre buscando código limpo, aprender novas tecnologias e evoluir a cada projeto. 
 
 Tenho facilidade para aprender rápido, gosto de resolver problemas e estou em busca da minha primeira oportunidade como estágiaria ou desenvolvedora júnior.
