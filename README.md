@@ -40,10 +40,6 @@ Tenho facilidade para aprender rápido, gosto de resolver problemas e estou em b
 
 
 
-
-
-
-
 ###
 
 <h2 align="left"> Tecnologias em Aprendizado</h2>
