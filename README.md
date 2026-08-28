@@ -1,8 +1,10 @@
-<div align="center">
-  <h1 style="background: linear-gradient(90deg, #ff7eb9, #8e44ad, #3498db); 
-             -webkit-background-clip: text; 
-             -webkit-text-fill-color: transparent; 
-             font-size: 40px;">
+
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
     Ingrid Reis
   </h1>
   <p><i>Estudante de ADS | Full-Stack em formação | Buscando primeiro estágio</i></p>
