@@ -40,7 +40,7 @@ Tenho facilidade para aprender rápido, gosto de resolver problemas e estou em b
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="60" alt="html5 logo"  />
   <img width="12" />
-  <img src="  https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="60" alt="javascript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="60" alt="html5 logo"  />
   <img width="12" />
