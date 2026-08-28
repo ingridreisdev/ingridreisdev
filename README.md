@@ -1,6 +1,7 @@
 
 <div align="center">
-###Ingrid Reis
+  
+## Ingrid Reis
   </h1>
   <p><i>Estudante de ADS | Full-Stack em formação | Buscando primeiro estágio</i></p>
 </div>
