@@ -38,6 +38,8 @@ Tenho facilidade para aprender rápido, gosto de resolver problemas e estou em b
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDyH2myWuIgQG8jBZSxpCal8L_6F96e_Ip5T7DiqeQWQ&s" height="60" alt="html logo"  />
+  <img width="12" />
 
 
 
